@@ -1,0 +1,7 @@
+shashitest file.
+after creating "git status" will show this as untracked file.
+then you have to stage it and then commit it
+
+git add shashitest
+
+
